@@ -1,4 +1,4 @@
-# Conobin Module For WHMCS , By [bunyam.in](https://bunyam.in)
+# Cnobin Module For WHMCS , By [bunyam.in](https://bunyam.in)
 
 [![Generic badge](https://img.shields.io/badge/stability-stable-<COLOR>.svg)](https://bunyam.in/) [![Generic badge](https://img.shields.io/badge/minimum_whmcs_version-6.0-<COLOR>.svg)](https://bunyam.in/)
 
