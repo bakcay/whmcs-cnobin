@@ -10,7 +10,7 @@ This module has free to use for cnobin accounts
 ## Installation
 
 - Download and extract files on WHMCS_DIR/modules/registrars/cnobin
-- On registrars settigs use api username and passoword
+- On registrars settigs use api username and password
 - all set
 
 Please do not remove author's information , feel free to fork and contribute.
